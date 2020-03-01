@@ -1,0 +1,29 @@
+.budget-feedback, .amount-feedback {
+  display: none;
+}
+.showItem {
+    display: block;
+    margin-top: 15px;
+  }
+  option {
+      cursor: pointer;
+  }
+  .input-group {
+      margin: 20px auto;
+  }
+  .input-group-text {
+      background-color: #6c757d;
+      color: white;
+  }
+  select {
+      background-color: #6c757d;
+      border-color: #6c757d;
+      color: white;
+      height: 37px;
+      border-radius: 5px;
+      padding: 5px;
+      outline: 0;
+      cursor: pointer;
+  }
+  
+
