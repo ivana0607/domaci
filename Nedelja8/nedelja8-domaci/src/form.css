@@ -1,0 +1,38 @@
+body {
+    font-family: 'MyWebFont', Fallback, sans-serif;
+  }
+.form{
+    padding:20px;
+    margin-top: 20px;  
+}
+.header {
+    text-align: center;
+  }
+.form-input {
+    height: 35px;
+    width: 50%;
+    margin: 10px auto;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.btn {
+    color: gray;
+    font-size: 12px;
+    padding: 10px 30px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+.filed {
+    color: indigo;
+    margin-left: 20px;
+}
+.contacts{
+      margin: 20px;
+  }
+  
