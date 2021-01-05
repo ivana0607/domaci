@@ -31,7 +31,7 @@
     "url": ""
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "copy-webpack-plugin": "^5.0.4",
     "uuid": "^7.0.1"
   }
